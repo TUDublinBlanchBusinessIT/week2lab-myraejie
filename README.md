@@ -12,7 +12,7 @@ The goal is to acheive the same output using a mix of Sequence Selection and Ite
 
 # Part A
 
-Copy the file Steps.py to PartA.py. Add the name of the program, a description of what it does, your name and the date in comments at the top of the file. Change the file to add a function at the top of file called printSteps(). This function should just print out 
+Copy the file Steps.py to PartA.py. Add the name of the program, a description of what it does, your name and the date in comments at the top of the file. Change the file to add a function at the top of file called printSteps(). This function should just print out  
 Step 4
 Step 5
 Step 6
